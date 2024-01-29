@@ -1,0 +1,26 @@
+# R environment
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R package
+.Rcheck/
+*.tar.gz
+*.Rcheck/
+
+# R Markdown
+*_cache/
+*_files/
+
+# R Shiny
+.Rook/
+shiny_*.log
+
+# RStudio
+.Rproj.user/
+.Rproj.user/*
+
+# Other
+.DS_Store
+Thumbs.db
