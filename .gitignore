@@ -24,3 +24,5 @@ shiny_*.log
 # Other
 .DS_Store
 Thumbs.db
+/example_output/
+READme.html
